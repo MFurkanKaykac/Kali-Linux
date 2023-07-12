@@ -1,0 +1,69 @@
+Ağ İle İlgili Komutlar:
+
+Kablosuz Ağları Tarayın ve Sonuçları Kaydedin
+Hedef IP Adresini Ping İle Kontrol Edin
+Belirli Bir IP Aralığındaki Cihazları Taramak için Nmap Kullanın
+
+Güvenlik Testi İle İlgili Komutlar:
+
+SQL Enjeksiyon Testi İçin SQLmap Kullanın
+FTP Sunucusunda Kullanıcı Adı ve Şifre Denemesi Yapmak İçin Hydra'yı Kullanın
+Web Uygulamasında Zafiyet Taraması İçin OWASP ZAP Kullanın
+
+Parola Kırma İle İlgili Komutlar:
+
+MD5 Parolaları Kırma İçin John the Ripper Kullanın
+ZIP Dosyasının Şifresini Kırma İçin fcrackzip Kullanın
+SSH Parolalarını Kırma İçin Hydra'yı Kullanın
+
+Veri İstihbaratı İle İlgili Komutlar:
+
+Hedef Web Sitesinin WHOIS Bilgilerini Almak İçin whois Kullanın
+Belirli Bir Alan Adının DNS Kayıtlarını Sorgulamak İçin dig Kullanın
+E-posta Adresinin Ait Olduğu Domainin IP Adresini Bulmak İçin nslookup Kullanın
+
+Sistem Yönetimi İle İlgili Komutlar:
+
+Yönetici Yetkileriyle Root Olarak Oturum Açmak İçin sudo su Kullanın.
+Sistem Kaynaklarını Görüntülemek İçin top Komutunu Kullanın.
+Belirli Bir Dosya veya Dizin İçeriğini Listelemek İçin ls Komutunu Kullanın.
+
+
+
+WİNDOWS ve MAC İçin Kısayollar
+
+
+Terminal İşlemleri:
+
+Ctrl + Alt + T: Kali Linux terminalini açar.
+Ctrl + Shift + N: Yeni bir terminal sekmesi oluşturur.
+Ctrl + C: Çalışan bir işlemi durdurur.
+Ctrl + D: Terminali kapatır.
+Ctrl + Shift + C: Seçili metni kopyalar.
+Ctrl + Shift + V: Kopyalanan metni yapıştırır.
+
+Dosya Tarayıcısı İşlemleri:
+
+Ctrl + Shift + T: Terminalde yeni bir sekme açar.
+Ctrl + Shift + Q: Terminal sekmesini kapatır.
+Ctrl + Shift + S: Dosyayı kaydeder.
+Ctrl + Shift + O: Bir dosyayı açar.
+
+
+
+Mac PC İçin Kısayollar:
+
+Terminal İşlemleri:
+
+Cmd + Space: Spotlight arama çubuğunu açar.
+Cmd + Shift + N: Yeni bir terminal penceresi açar.
+Cmd + Z: Çalışan bir işlemi arka plana alır.
+Cmd + Shift + C: Seçili metni kopyalar.
+Cmd + Shift + V: Kopyalanan metni yapıştırır.
+
+Dosya Tarayıcısı İşlemleri:
+
+Cmd + Shift + T: Terminalde yeni bir sekme açar.
+Cmd + Shift + Q: Terminal penceresini kapatır.
+Cmd + Shift + S: Dosyayı kaydeder.
+Cmd + Shift + O: Bir dosyayı açar.

@@ -1,0 +1,86 @@
+Network Related Commands:
+
+Scan and save results of wireless networks:
+Command: iwlist scan | grep ESSID
+Ping a target IP address:
+Command: ping <target_ip_address>
+Use Nmap to scan devices in a specific IP range:
+Command: nmap <ip_range>
+
+Security Testing Commands:
+
+Use SQLmap for SQL injection testing:
+Command: sqlmap -u <target_url>
+Use Hydra for username and password brute-forcing on an FTP server:
+Command: hydra -l <username> -P <password_file> <target_ftp_server>
+Use OWASP ZAP for vulnerability scanning on a web application:
+Command: zap.sh -cmd -quickurl <target_url>
+
+Password Cracking Commands:
+
+Use John the Ripper for cracking MD5 passwords:
+Command: john --format=md5 <password_file>
+Use fcrackzip for cracking the password of a ZIP file:
+Command: fcrackzip -b -c 'aA1!' -l 1-6 -u <zip_file>
+Use Hydra for cracking SSH passwords:
+Command: hydra -l <username> -P <password_file> ssh://<target_ip>
+
+Open Source Intelligence (OSINT) Commands:
+
+Retrieve WHOIS information for a target website:
+Command: whois <target_domain>
+Query DNS records of a specific domain name:
+Command: dig <domain_name>
+Find the IP address of the domain associated with an email address:
+Command: nslookup -type=MX <email_domain>
+
+System Administration Commands:
+
+Switch to root user with administrative privileges:
+Command: sudo su
+Monitor system resources with the top command:
+Command: top
+List the contents of a specific file or directory:
+Command: ls <file_or_directory>
+
+
+
+Windows and Mac PC Shortcuts:
+
+Terminal Operations:
+
+Windows PC:
+
+Ctrl + Alt + T: Opens the Kali Linux terminal.
+Ctrl + Shift + N: Creates a new terminal tab.
+Ctrl + C: Stops a running process.
+Ctrl + D: Closes the terminal.
+Ctrl + Shift + C: Copies the selected text.
+Ctrl + Shift + V: Pastes the copied text.
+
+
+
+Mac PC:
+
+Cmd + Space: Opens the Spotlight search bar.
+Cmd + Shift + N: Creates a new terminal window.
+Cmd + Z: Puts a running process in the background.
+Cmd + Shift + C: Copies the selected text.
+Cmd + Shift + V: Pastes the copied text.
+File Explorer Operations:
+
+Windows PC:
+
+Ctrl + Shift + T: Opens a new tab in the file explorer.
+Ctrl + Shift + Q: Closes the file explorer tab.
+Ctrl + Shift + S: Saves the file.
+Ctrl + Shift + O: Opens a file.
+Mac PC:
+
+Cmd + Shift + T: Opens a new tab in the file explorer.
+Cmd + Shift + Q: Closes the file explorer window.
+Cmd + Shift + S: Saves the file.
+Cmd + Shift + O: Opens a file.
+
+
+

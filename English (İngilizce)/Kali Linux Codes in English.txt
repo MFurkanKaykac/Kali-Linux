@@ -1,0 +1,57 @@
+System Commands:
+
+clear: Clears the screen.
+ls: Lists files and directories.
+cd: Changes the current directory.
+pwd: Shows the current directory.
+mkdir: Creates a new directory.
+rm: Deletes files or directories.
+cp: Copies files.
+mv: Moves or renames files.
+cat: Displays the content of a file.
+sudo su: Switches to the root user.
+nano: Used to edit text files.
+df -h: Checks disk usage.
+uname -a: Displays system information.
+passwd: Changes the password for the current user.
+touch: Creates an empty file.
+df: Shows disk usage.
+free: Shows system memory and usage.
+uname: Displays system information.
+who: Displays current logged-in users.
+date: Shows the current date and time.
+cal: Displays a calendar.
+kill: Terminates a process.
+ps: Lists running processes.
+top: Monitors running processes and system resources.
+
+Network Commands:
+
+ifconfig: Lists network interfaces.
+netdiscover: Gathers MAC addresses on the network.
+ping: Sends a ping to an IP address.
+netstat: Lists network connections and ports.
+traceroute: Traces the route to an IP address.
+wget: Downloads files from the internet.
+ssh: Connects to a remote server using SSH.
+ip a: Shows configuration information.
+dig: Performs DNS queries.
+curl: Calls or retrieves data from a URL.
+
+Package Management Commands:
+
+apt update: Updates the package database.
+apt upgrade: Upgrades the system.
+apt install: Installs packages.
+apt remove: Removes a package.
+apt search: Searches for packages.
+
+Security and Testing Commands:
+
+ping: Sends a ping to an IP address.
+nmap: Performs network scanning.
+nikto: Scans web servers.
+metasploit: A platform used for security testing.
+aircrack-ng: Performs security tests on wireless networks.
+bettercap: A network attack and security testing tool.
+john: A password cracking tool.

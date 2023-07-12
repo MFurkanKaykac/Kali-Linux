@@ -1,0 +1,59 @@
+Sistem Komutları:
+
+clear: Ekranı temizler.
+ls: Dosyaları ve dizinleri listeler.
+cd: Dizin değiştirir.
+pwd: Şu anki dizini gösterir.
+mkdir: Yeni bir dizin oluşturur.
+rm: Dosya veya dizinleri siler.
+cp: Dosyaları kopyalar.
+mv: Dosyaları taşır veya yeniden adlandırır.
+cat: Dosyanın içeriğini görüntüler.
+sudo su: Root'a geçer
+nano: Metin dosyalarını düzenlemek için kullanılır. 
+df -h: Disk kullanımını kontrol eder. 
+uname -a: Sistem bilgilerini görüntüler. 
+passwd: Kali Linux'a girerken ki şifreyi değiştirir.
+touch: Boş bir dosya oluşturur.
+df: Disk kullanımını gösterir.
+free: Sistem belleği ve kullanımını gösterir.
+uname: Sistem bilgilerini gösterir.
+who: Sİstemdeki mevcut kullanıcıları gösterir.
+date: Geçerli tarih ve saati gösterir.
+cal: Takvimi görüntüler.
+kill: Bir süreci sonlandırır.
+ps: Sistemde çalışan süreçleri listeler.
+top: Sistemdeki süreçleri ve sistem kaynaklarını izler.
+
+Ağ Komutları:
+
+iconfig: Arayüzlerin yapılandırma bilgilerini gösterir.
+ifconfig: Ağ arayüzlerini listeler.
+netdiscover: Ağdakilerin MAC adresini toplar.
+ping: Bir IP adresine ping gönderir.
+netstat: Ağ bağlantılarını ve portları listeler.
+traceroute: Bir IP adresinin rotasını izler.
+wget: İnternet üzerinden dosya indirir.
+ssh: Uzak bir sunucuya SSH ile bağlanır.
+ip a: Yapılandırma bilgilerini gösterir.
+dig: DNS sorgularını gerçekleştirir.
+curl: İnternet üzerinde bir URL'yi çağırır veya verileri alır.
+
+
+Paket Yönetimi Komutları:
+
+apt update: Paket veritabanını günceller.
+apt upgrade: Sistemi günceller.
+apt install: Paket yükler.
+apt remove: Paketi kaldırır.
+apt search: Paketleri arar.
+
+Güvenlik ve Test Komutları:
+
+ping: Bir IP adresine ping gönderir.
+nmap: Ağ taraması yapar.
+nikto: Web sunucularını tarar.
+metasploit: Güvenlik testlerinde kullanılan bir platform.
+aircrack-ng: Kablosuz ağlarda güvenlik testleri yapar.
+bettercap: Ağ saldırısı ve güvenlik test aracıdır. 
+john: Şifre kırma aracı.
