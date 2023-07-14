@@ -1,0 +1,399 @@
+nmap - Ağ keşfi ve güvenlik denetim aracı
+
+metasploit-framework - Ağ zafiyet tarama ve saldırı aracı
+
+hydra - Parola kırma ve saldırı aracı
+
+aircrack-ng - Kablosuz ağlarda güvenlik testi ve saldırı aracı
+
+john - Parola kırma aracı
+
+wireshark - Ağ protokol analiz aracı
+
+tcpdump - Ağ trafiğini yakalama ve analiz etme aracı
+
+sqlmap - SQL enjeksiyon saldırıları için otomatik araç
+
+nikto - Web sunucularını tarayan güvenlik tarama aracı
+
+burpsuite - Web uygulama güvenlik testleri için kapsamlı bir araç seti
+
+ettercap - Ağ saldırıları ve güvenlik testleri için bir orta adam saldırı aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hashcat - Parola kırma aracı
+wpscan - WordPress sitelerinde güvenlik açıklarını tarama aracı
+
+beef - Tarayıcı tabanlı saldırı aracı
+
+openvas - Ağ zafiyet tarama ve yönetim aracı
+
+dirb - Web sunucularını tarama ve dizin keşfi aracı
+
+medusa - Parola kırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+sqlninja - SQL enjeksiyon saldırıları için bir araç seti
+
+setoolkit - Sosyal mühendislik tabanlı saldırılar için araç seti
+
+netcat - Ağ bağlantıları oluşturma ve yönetme aracı
+
+hping3 - Ağ paketleri oluşturma ve manipüle etme aracı
+
+iptables - Linux güvenlik duvarı yönetim aracı
+
+macchanger - MAC adresini değiştirme aracı
+
+openvpn - Sanal özel ağ (VPN) bağlantı aracı
+
+proxychains - Şebekedeki trafiği yönlendirmek için bir proxy zinciri aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+exploitdb - Saldırı ve zafiyet veritabanı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+wifite - Kablosuz ağları otomatik olarak tarayan ve saldıran bir araç
+
+dnsenum - Hedef sistemdeki DNS kayıtlarını toplama aracı
+
+maltego - Bilgi toplama ve görselleştirme aracı
+
+enum4linux - Samba sunucuları üzerinde bilgi toplama aracı
+
+johnny - Parola kırma aracı
+
+hydra-gtk - Parola kırma ve saldırı aracı (grafik arayüzü)
+
+snort - Ağ güvenlik sistemi ve saldırı tespit sistemi
+
+tcpflow - Ağ trafiğini izleme ve analiz etme aracı
+
+binwalk - Dosya içeriğini analiz etme ve içeriden gizli verileri çıkarma aracı
+
+volatility - Bellek analizi ve dijital delil toplama aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hashcat - Parola kırma aracı
+
+proxychains - Şebekedeki trafiği yönlendirmek için bir proxy zinciri aracı
+
+dnsrecon - DNS sunucularını tarayan güvenlik aracı
+
+w3af - Web uygulama güvenlik taraması aracı
+
+sslstrip - HTTPS bağlantılarını HTTP'ye indirgeyerek saldırganın trafiği gözlemlemesine izin veren araç
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+medusa - Parola kırma aracı
+
+joomscan - Joomla sitelerinde güvenlik açıklarını tarama aracı
+
+armitage - Metasploit Framework tabanlı bir saldırı aracı
+
+sqlmap - SQL enjeksiyon saldırıları için otomatik araç
+
+veil - Saldırı araçlarını gizlemek için saldırıları şifreleyen bir çerçeve
+
+weevely - Web uygulamalarına erişim sağlayan bir arka kapı aracı
+
+httrack - Web sitelerini yerel olarak indirme aracı
+
+steghide - Dosya içerisine gizli veriler saklama aracı
+
+hexedit - Dosya düzenleme aracı
+
+fcrackzip - ZIP şifrelerini kırma aracı
+
+sshpass - SSH şifrelerini otomatik olarak sağlama aracı
+
+sslscan - SSL/TLS sürümlerini ve şifreleme algoritmalarını tarama aracı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+thc-ipv6 - IPv6 üzerinde güvenlik testleri yapma aracı
+
+wapiti - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+john - Parola kırma aracı
+
+dnschef - DNS yanıtlarını manipüle etme aracı
+
+se-toolkit - Sosyal mühendislik saldırıları için araç seti
+
+mitmf - Orta adam saldırıları gerçekleştirmek için araç
+
+burp - Web uygulama güvenlik testleri için bir araç seti
+
+ettercap - Ağ saldırıları ve güvenlik testleri için bir orta adam saldırı aracı
+
+medusa - Parola kırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+fimap - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+wifiphisher - Kablosuz ağlarda saldırı ve ağ trafiğini yakalama aracı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+thc-ssl-dos - SSL/TLS sunucularını sürdürülebilir bir şekilde saldırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hashcat - Parola kırma aracı
+
+nikto - Web sunucularını tarayan güvenlik tarama aracı
+
+netdiscover - Ağda IP adreslerini keşfetme aracı
+
+arp-scan - Ağdaki ARP paketlerini tarayan araç
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+jsql - Web uygulamalarında SQL enjeksiyon açıklarını tarama aracı
+
+reaver - WPS özelliğini kullanan kablosuz ağları kırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hydra - Parola kırma ve saldırı aracı
+
+john - Parola kırma aracı
+
+beef-xss - Web tarayıcılarına yönelik saldırılar için araç
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+volafox - Firefox tarayıcısının belleğini analiz etme aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+wifite - Kablosuz ağları otomatik olarak tarayan ve saldıran bir araç
+
+yersinia - Ağ protokol saldırıları için araç
+
+wapiti - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+arachni - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+fierce - Hedef alan için DNS alt alanlarını tarayan bir araç
+
+exploitdb - Saldırı ve zafiyet veritabanı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+thc-ipv6 - IPv6 üzerinde güvenlik testleri yapma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+sslstrip - HTTPS bağlantılarını HTTP'ye indirgeyerek saldırganın trafiği gözlemlemesine izin veren araç
+
+reaver - WPS özelliğini kullanan kablosuz ağları kırma aracı
+
+
+crunch - Parola listeleri oluşturma aracı
+
+exploitdb - Saldırı ve zafiyet veritabanı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+wifite - Kablosuz ağları otomatik olarak tarayan ve saldıran bir araç
+
+dnsenum - Hedef sistemdeki DNS kayıtlarını toplama aracı
+
+maltego - Bilgi toplama ve görselleştirme aracı
+
+enum4linux - Samba sunucuları üzerinde bilgi toplama aracı
+
+johnny - Parola kırma aracı
+
+hydra-gtk - Parola kırma ve saldırı aracı (grafik arayüzü)
+
+snort - Ağ güvenlik sistemi ve saldırı tespit sistemi
+
+tcpflow - Ağ trafiğini izleme ve analiz etme aracı
+
+binwalk - Dosya içeriğini analiz etme ve içeriden gizli verileri çıkarma aracı
+
+volatility - Bellek analizi ve dijital delil toplama aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hashcat - Parola kırma aracı
+
+proxychains - Şebekedeki trafiği yönlendirmek için bir proxy zinciri aracı
+
+dnsrecon - DNS sunucularını tarayan güvenlik aracı
+
+w3af - Web uygulama güvenlik taraması aracı
+
+sslstrip - HTTPS bağlantılarını HTTP'ye indirgeyerek saldırganın trafiği gözlemlemesine izin veren araç
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+medusa - Parola kırma aracı
+
+joomscan - Joomla sitelerinde güvenlik açıklarını tarama aracı
+
+armitage - Metasploit Framework tabanlı bir saldırı aracı
+
+sqlmap - SQL enjeksiyon saldırıları için otomatik araç
+
+veil - Saldırı araçlarını gizlemek için saldırıları şifreleyen bir çerçeve
+
+weevely - Web uygulamalarına erişim sağlayan bir arka kapı aracı
+
+httrack - Web sitelerini yerel olarak indirme aracı
+
+steghide - Dosya içerisine gizli veriler saklama aracı
+
+hexedit - Dosya düzenleme aracı
+
+fcrackzip - ZIP şifrelerini kırma aracı
+
+sshpass - SSH şifrelerini otomatik olarak sağlama aracı
+
+sslscan - SSL/TLS sürümlerini ve şifreleme algoritmalarını tarama aracı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+thc-ipv6 - IPv6 üzerinde güvenlik testleri yapma aracı
+
+wapiti - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+john - Parola kırma aracı
+
+dnschef - DNS yanıtlarını manipüle etme aracı
+
+se-toolkit - Sosyal mühendislik saldırıları için araç seti
+
+mitmf - Orta adam saldırıları gerçekleştirmek için araç
+
+burp - Web uygulama güvenlik testleri için bir araç seti
+
+ettercap - Ağ saldırıları ve güvenlik testleri için bir orta adam saldırı aracı
+
+medusa - Parola kırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+fimap - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+wifiphisher - Kablosuz ağlarda saldırı ve ağ trafiğini yakalama aracı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+thc-ssl-dos - SSL/TLS sunucularını sürdürülebilir bir şekilde saldırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hashcat - Parola kırma aracı
+
+nikto - Web sunucularını tarayan güvenlik tarama aracı
+
+netdiscover - Ağda IP adreslerini keşfetme aracı
+
+arp-scan - Ağdaki ARP paketlerini tarayan araçsqlsus
+
+ - SQL enjeksiyon saldırıları için araç seti
+
+jsql - Web uygulamalarında SQL enjeksiyon açıklarını tarama aracı
+
+reaver - WPS özelliğini kullanan kablosuz ağları kırma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+hydra - Parola kırma ve saldırı aracı
+
+john - Parola kırma aracı
+
+beef-xss - Web tarayıcılarına yönelik saldırılar için araç
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+volafox - Firefox tarayıcısının belleğini analiz etme aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+wifite - Kablosuz ağları otomatik olarak tarayan ve saldıran bir araç
+
+yersinia - Ağ protokol saldırıları için araç
+
+wapiti - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+arachni - Web uygulamalarını tarama ve güvenlik açıklarını bulma aracı
+
+fierce - Hedef alan için DNS alt alanlarını tarayan bir araç
+
+exploitdb - Saldırı ve zafiyet veritabanı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+thc-ipv6 - IPv6 üzerinde güvenlik testleri yapma aracı
+
+crunch - Parola listeleri oluşturma aracı
+
+sslstrip - HTTPS bağlantılarını HTTP'ye indirgeyerek saldırganın trafiği gözlemlemesine izin veren araç
+
+reaver - WPS özelliğini kullanan kablosuz ağları kırma aracı
+
+ncrack - Ağ güvenlik tarama ve parola kırma aracı
+
+wifiphisher - Kablosuz ağlarda otomatik saldırı aracı
+
+thc-ssl-dos - SSL/TLS sunucularına saldırmak için araç
+
+crunch - Parola listeleri oluşturma aracı
+
+hashcat - Parola kırma aracı
+
+patator - Çeşitli saldırı türlerini otomatik olarak gerçekleştiren araç
+
+zaproxy - Web uygulama güvenlik taraması ve saldırı aracı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+netcat - Ağ bağlantıları oluşturma ve yönetme aracı
+
+sn1per - Web uygulama ve ağ güvenlik taraması aracı
+
+hydra - Parola kırma ve saldırı aracı
+
+john - Parola kırma aracı
+
+cewl - Web sayfalarından kelime listesi oluşturma aracı
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+hash-identifier - Hash türlerini belirlemek için araç
+
+ophcrack - Windows şifrelerini kırmak için araç
+
+weevely - Web uygulamalarına erişim sağlayan bir arka kapı aracı
+
+cadaver - WebDAV sunucularına erişim sağlayan araç
+
+sslsplit - SSL/TLS trafiğini dinlemek ve manipüle etmek için araç
+
+sqlsus - SQL enjeksiyon saldırıları için araç seti
+
+yara - Zararlı yazılımları tespit etmek için bir kalıp eşleştirme aracı
+
+dsniff - Ağ trafiğini izleme ve saldırıları tespit etme aracı
+
+rebind - DNS önbellek zehirlenmesi saldırıları gerçekleştirmek için araç
+
+reGeorg - Web trafiğini tunelleyen bir zorlama saldırı aracı
+
+nipper-ng - Ağ cihazları üzerinde güvenlik taraması yapma aracı
+
+dex2jar - Android DEX dosyalarını JAR formatına dönüştürme aracı
+
+apktool - Android APK dosyalarını çözme ve düzenleme aracı

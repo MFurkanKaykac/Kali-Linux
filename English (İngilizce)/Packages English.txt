@@ -1,0 +1,249 @@
+nmap - Network exploration and security auditing tool
+
+metasploit-framework - Network vulnerability scanning and exploitation tool
+
+hydra - Password cracking and brute-force attack tool
+
+aircrack-ng - Wireless network security testing and attack tool
+
+john - Password cracking tool
+
+wireshark - Network protocol analysis tool
+
+tcpdump - Network traffic capture and analysis tool
+
+sqlmap - Automatic tool for SQL injection attacks
+
+nikto - Web server scanning and security assessment tool
+
+burpsuite - Comprehensive toolset for web application security testing
+
+ettercap - Man-in-the-middle attack and security testing tool
+
+crunch - Password list generation tool
+
+hashcat - Password cracking tool
+
+wpscan - Security vulnerability scanning tool for WordPress sites
+
+beef - Browser-based attack tool
+
+openvas - Network vulnerability scanning and management tool
+
+dirb - Web server scanning and directory discovery tool
+
+medusa - Password cracking tool
+
+sqlninja - Toolset for SQL injection attacks
+
+setoolkit - Toolkit for social engineering-based attacks
+
+netcat - Tool for creating and managing network connections
+
+hping3 - Tool for creating and manipulating network packets
+
+iptables - Linux firewall management tool
+
+macchanger - Tool for changing MAC addresses
+
+openvpn - Virtual private network (VPN) connection tool
+
+proxychains - Tool for routing network traffic through a proxy chain
+
+exploitdb - Database of exploits and vulnerabilities
+
+sqlsus - Toolset for SQL injection attacks
+
+wifite - Automated tool for wireless network scanning and attacks
+
+dnsenum - Tool for gathering DNS records on a target system
+
+maltego - Information gathering and visualization tool
+
+enum4linux - Information gathering tool for Samba servers
+
+johnny - Password cracking tool
+
+hydra-gtk - Graphical user interface for hydra (password cracking and attack tool)
+
+snort - Network security system and intrusion detection system
+
+tcpflow - Tool for capturing and analyzing network traffic
+
+binwalk - Tool for analyzing file contents and extracting hidden data
+
+volatility - Memory analysis and digital forensics tool
+
+exploitdb - Database of exploits and vulnerabilities
+
+sqlsus - Toolset for SQL injection attacks
+
+wifite - Automated tool for wireless network scanning and attacks
+
+dnsrecon - Security tool for scanning DNS servers
+
+w3af - Web application security scanning tool
+
+sslstrip - Tool for downgrading HTTPS connections to HTTP for traffic observation
+
+sqlsus - Toolset for SQL injection attacks
+
+medusa - Password cracking tool
+
+joomscan - Joomla site vulnerability scanning tool
+
+armitage - Attack tool based on Metasploit Framework
+
+sqlmap - Automatic tool for SQL injection attacks
+
+veil - Framework for encrypting attack tools to evade detection
+
+weevely - Backdoor tool for accessing web applications
+
+httrack - Tool for locally mirroring websites
+
+steghide - Tool for hiding data within files
+
+hexedit - File editing tool
+
+fcrackzip - Tool for cracking ZIP passwords
+
+sshpass - Tool for automated SSH password provisioning
+
+sslscan - Tool for scanning SSL/TLS versions and encryption algorithms
+
+sqlsus - Toolset for SQL injection attacks
+
+thc-ipv6 - Tool for performing security tests on IPv6
+
+wapiti - Web application scanning and vulnerability detection tool
+
+john - Password cracking tool
+
+dnschef - Tool for manipulating DNS responses
+
+se-toolkit - Toolkit for social engineering attacks
+
+mitmf - Man-in-the-middle attack tool
+
+burp - Toolset for web application security testing
+
+ettercap - Man-in-the-middle attack and security testing tool
+
+medusa - Password cracking tool
+
+crunch - Password list generation tool
+
+fimap - Web application scanning and vulnerability detection tool
+
+wifiphisher - Tool for attacking and capturing wireless networks
+
+sqlsus - Toolset for SQL injection attacks
+
+thc-ssl-dos - Tool for sustained attacks on SSL/TLS servers
+
+crunch - Password list generation tool
+
+hashcat - Password cracking tool
+
+nikto - Web server scanning and security assessment tool
+
+netdiscover - Tool for discovering IP addresses on a network
+
+arp-scan - Tool for scanning ARP packets on a network
+
+sqlsus - Toolset for SQL injection attacks
+
+jsql - Tool for scanning SQL injection vulnerabilities in web applications
+
+reaver - Tool for cracking wireless networks using WPS feature
+
+crunch - Password list generation tool
+
+hydra - Password cracking and attack tool
+
+john - Password cracking tool
+
+beef-xss - Tool for browser-based attacks
+
+sqlsus - Toolset for SQL injection attacks
+
+volafox - Tool for analyzing Firefox browser memory
+
+crunch - Password list generation tool
+
+wifite - Automated tool for wireless network scanning and attacks
+
+yersinia - Tool for network protocol attacks
+
+wapiti - Web application scanning and vulnerability detection tool
+
+arachni - Web application scanning and vulnerability detection tool
+
+fierce - Tool for scanning DNS subdomains for a target domain
+
+exploitdb - Database of exploits and vulnerabilities
+
+sqlsus - Toolset for SQL injection attacks
+
+thc-ipv6 - Tool for performing security tests on IPv6
+
+crunch - Password list generation tool
+
+sslstrip - Tool for downgrading HTTPS connections to HTTP for traffic observation
+
+reaver - Tool for cracking wireless networks using WPS feature
+
+ncrack - Network security scanning and password cracking tool
+
+wifiphisher - Automated tool for attacking and capturing wireless networks
+
+thc-ssl-dos - Tool for attacking SSL/TLS servers
+
+crunch - Password list generation tool
+
+hashcat - Password cracking tool
+
+patator - Tool for automated various types of attacks
+
+zaproxy - Web application security scanning and attack tool
+
+sqlsus - Toolset for SQL injection attacks
+
+netcat - Tool for creating and managing network connections
+
+sn1per - Web application and network security scanning tool
+
+hydra - Password cracking and attack tool
+
+john - Password cracking tool
+
+cewl - Tool for generating wordlists from web pages
+
+sqlsus - Toolset for SQL injection attacks
+
+hash-identifier - Tool for identifying hash types
+
+ophcrack - Tool for cracking Windows passwords
+
+weevely - Backdoor tool for accessing web applications
+
+cadaver - Tool for accessing WebDAV servers
+
+sslsplit - Tool for listening and manipulating SSL/TLS traffic
+
+sqlsus - Toolset for SQL injection attacks
+
+yara - Tool for pattern matching to detect malware
+
+dsniff - Tool for sniffing network traffic and detecting attacks
+
+rebind - Tool for DNS cache poisoning attacks
+
+reGeorg - Tool for tunnelling web traffic in a forced attack
+
+nipper-ng - Tool for security scanning on network devices
+
+dex2jar - Tool for converting Android DEX files to JAR format
+
+apktool - Tool for decoding and modifying Android APK files
